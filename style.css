@@ -251,7 +251,7 @@ h1 {
 
     .homePageText > p {
         text-align: center;
-        padding-bottom: calc(45vh - 100px) !important;
+        padding-bottom: calc(30vh - 100px) !important;
     }
 
     .phone {
